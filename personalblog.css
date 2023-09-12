@@ -1,0 +1,39 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap');
+header{
+    background-color:rgb(238, 227, 227);
+    font-family: 'Times New Roman', Times, serif;
+    font-display: ;
+}
+h1{
+    text-align: center;padding: .005cm;-webkit-text-fill-color: rgb(20, 2, 2);
+    padding-top: 1cm;
+    font-family:'Times New Roman', Times, serif;
+}
+h2{
+  text-align:left;padding:10px;padding-left: 100px;padding-top: 50px;
+  font-family:'Times New Roman', Times, serif;font-size: larger;
+}
+
+.ABOUT ME{
+  padding: 100px;
+  
+  
+}
+body{
+  background-color: #100f0f;
+  
+}
+p{
+  font-family:cursive;
+}
+
+#colored-section {
+  background-color: #1d1c1c; /* Use a color code, name, or RGB value */
+}
+.TRAVELS
+{
+  padding: 100px;
+}
+
+
